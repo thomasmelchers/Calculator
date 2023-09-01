@@ -4,7 +4,7 @@
 
 A simple calculator application built using React and Redux, allowing to perform basic mathematical operations.
 
-(/src/assets/calculator.png)
+![calculator](/src/assets/calculator.png)
 
 ## Demo
 
