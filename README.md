@@ -8,7 +8,7 @@ A simple calculator application built using React and Redux, allowing to perform
 
 ## Demo
 
-You can try the app live at
+You can try the app live at [Demo Link](https://thomasmelchers.github.io/Calculator)
 
 ## Features
 
